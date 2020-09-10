@@ -1,10 +1,10 @@
 export const contributors = [
   {
-    name: 'Wal Wal',
+    name: 'Veronica',
     githubProfile: 'https://github.com/Walsker'
   },
   {
     name: 'cuHacking Example',
-    githubProfile: 'https://github.com/cuHacking'
+    githubProfile: 'https://github.com/veronicaYung'
   }
 ]
